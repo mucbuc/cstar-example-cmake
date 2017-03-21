@@ -1,7 +1,8 @@
 # cstar-template-cmake
 
+**build**
 ```
-cstar def.json -c > test.txt`
+cstar def.json -c > test.txt
 cmake .
 make
 ```
