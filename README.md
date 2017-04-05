@@ -1,4 +1,4 @@
-# cstar-template-cmake
+# cstar-example-cmake
 
 **build**
 ```
